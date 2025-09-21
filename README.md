@@ -1,1 +1,1 @@
-This is a repo for code for the Sante Fe Institute's Nonlinear Dynamics: Mathematical and Computational Approaches course, all code is currently written in Python (specifically Python 3.13) and is meant to help any prospective students with any exercises. 
+This is a repo for code for the Sante Fe Institute's Nonlinear Dynamics: Mathematical and Computational Approaches course, all code is currently written in Python (specifically Python 3.13) and is meant to help prospective students with the exercises or a idea about python specific implementation. 
